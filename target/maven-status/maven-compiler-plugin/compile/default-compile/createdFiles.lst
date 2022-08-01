@@ -1,0 +1,6 @@
+com\nagarro\controller\BookController.class
+com\nagarro\domain\Book.class
+com\nagarro\controller\LoginController.class
+com\nagarro\dao\UserDao.class
+com\nagarro\service\BookService.class
+com\nagarro\domain\User.class
